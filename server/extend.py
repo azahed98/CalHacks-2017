@@ -1,4 +1,0 @@
-"""
-Extend the sent midi.
-
-"""
